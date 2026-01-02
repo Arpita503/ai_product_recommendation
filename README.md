@@ -6,7 +6,7 @@ The application allows users to enter natural language preferences (e.g. *"lapto
 
 ---
 
-## 🚀 Features
+##  Features
 - Dynamic product list fetched from DummyJSON API
 - Natural language preference handling
 - Category detection (laptops, smartphones, skincare, groceries, etc.)
@@ -16,7 +16,7 @@ The application allows users to enter natural language preferences (e.g. *"lapto
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - React
 - Vite
 - JavaScript (ES6)
@@ -25,12 +25,14 @@ The application allows users to enter natural language preferences (e.g. *"lapto
 ---
 
 ##  Project Structure
+```
 src/
 ├── App.jsx
 ├── main.jsx
 └── api/
 └── aiEngine.js
 vite.config.js
+```
 
 
 ----
@@ -53,3 +55,14 @@ API integration
 AI-style recommendation logic
 
 Clean code and component separation
+
+-----------
+## Demo Video:
+
+
+
+
+https://github.com/user-attachments/assets/b53914f0-3005-40d6-8d94-b851747ede96
+
+
+
